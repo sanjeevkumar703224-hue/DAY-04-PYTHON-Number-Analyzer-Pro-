@@ -1,5 +1,5 @@
 history = []
-last_report = []
+last_report = 
 
 while True:
 
